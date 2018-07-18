@@ -1,11 +1,4 @@
 
-# Copyright 2017 Robo Systems
-#
-# CMakeLists.txt
-#
-# Cmake file to build the Command Manager.  Add new
-#   files to the list of command_manager_source_files below
-
 set(encoder_source_files costs.cc 
     encode_inter.cc
 	encode_intra.cc
